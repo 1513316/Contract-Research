@@ -33,6 +33,7 @@ R2 =cbind(R2,0.9842)
 
 
 
+
 #Compare R2 values, choose best fit
 print(R2)
 #Chosen Linear since all R2 are good
